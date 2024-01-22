@@ -1,0 +1,13 @@
+# Bradykinin-Type-2-Receptor-Deficiency-Analysis-of-Microglial-Neuron-and-Neutrophil-Morphology
+
+ImageJ macros were written by Dinko Smilović, with acknowledgments and thanks to Elisa M York and her 2018 MATLAB-based script 3DMorph https://github.com/ElisaYork/3DMorph.
+
+For the purposes of methodology concerning the automated analysis of microglia shape (preprocessing of images so that they can be analyzed by Elisa M Yorks 3DMorph script), neuron cell number, and neutrophil total volume, the following ImageJ scripts have been uploaded: 
+
+ImageJ_Macro_Preprocess_Microglia.ijm
+
+Parameters_MATLAB.mat
+
+ImageJ_Macro_Neurons.ijm
+
+ImageJ_Macro_Neutrophils.ijm
